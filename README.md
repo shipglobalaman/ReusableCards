@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # These are reusable dynamic cards :
-These cards can be modifies according to users need .
+These cards can be modified according to the users need .
 
 
 <img width="1429" alt="image" src="https://github.com/user-attachments/assets/a9dac85b-16f8-4fb2-a48d-eb9c19d0ab34">
