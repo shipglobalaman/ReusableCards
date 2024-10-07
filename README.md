@@ -10,4 +10,5 @@ Currently, two official plugins are available:
 # These are reusable dynamic cards :
 These cards can be modifies according to users need .
 
-<img width="1394" alt="image" src="https://github.com/user-attachments/assets/adc19785-17da-4072-a381-420206dc035c">
+
+<img width="1429" alt="image" src="https://github.com/user-attachments/assets/a9dac85b-16f8-4fb2-a48d-eb9c19d0ab34">
